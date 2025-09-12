@@ -19,4 +19,4 @@ This project analyzes NYC Yellow Taxi trip data to extract insights into traffic
 The dataset is too large to host here. To download the same data used in this project:
 1. Visit the [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) website.
 2.  Download the Parquet files for Yellow Taxi for the required months (e.g., `yellow_tripdata_2015-01.parquet` through `yellow_tripdata_2024-12.parquet`).
-4. All downloaded files in a directory named `data/` within this project.
+
